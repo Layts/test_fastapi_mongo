@@ -1,0 +1,5 @@
+*.pyc
+*.code-workspace
+
+# Project exclude paths
+/env/
